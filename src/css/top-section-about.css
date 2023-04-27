@@ -469,6 +469,10 @@
     color: #fff;
   }
 
+  .footer_logo {
+    width: 100px;
+  }
+
   .footer .logo-left,
   .footer .logo-right {
     color: #fff;
