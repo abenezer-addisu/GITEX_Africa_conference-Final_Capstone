@@ -76,3 +76,32 @@
   border: none;
   font-size: 1.2rem;
 }
+
+@media (min-width: 768px) {
+  .main-program h2 {
+    padding-bottom: 3rem;
+  }
+
+  .events {
+    grid-template-columns: repeat(5, 1fr);
+    padding: 0 10%;
+    grid-gap: 2px;
+  }
+
+  .event {
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: center;
+  }
+
+  .event-title {
+    font-size: 1.2rem;
+  }
+
+  .get-ticket {
+    padding: 3rem 0 0.2rem 0;
+    background-color: transparent;
+    border-bottom: solid white 1px;
+    cursor: pointer;
+  }
+}

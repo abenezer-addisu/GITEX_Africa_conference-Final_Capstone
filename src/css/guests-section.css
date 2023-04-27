@@ -95,3 +95,22 @@
   display: none;
 }
 
+@media (min-width: 768px) {
+  .guests-list {
+    grid-template-columns: 1fr 1fr;
+    padding: 2rem 10%;
+  }
+
+  .guest-img {
+    width: 9rem;
+    height: 9rem;
+  }
+
+  .hide {
+    display: flex;
+  }
+
+  .more {
+    display: none;
+  }
+}

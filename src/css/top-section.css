@@ -182,3 +182,126 @@
   font-weight: 400;
   font-size: 0.8rem;
 }
+
+@media (min-width: 768px) {
+  .menu-mobile,
+  .mobile-menu {
+    display: none;
+  }
+
+  .social {
+    display: flex;
+    justify-content: end;
+    padding: 0 10%;
+    background-color: var(--black);
+  }
+
+  .social-links {
+    display: flex;
+    align-items: center;
+    color: var(--gray);
+    gap: 1rem;
+    list-style: none;
+    cursor: pointer;
+  }
+
+  .social-links img {
+    padding-top: 0.2rem;
+    height: 1.5rem;
+    width: 1.5rem;
+  }
+
+  .hero {
+    padding: 10rem 10% 1rem 10%;
+  }
+
+  .sub-heading {
+    font-size: 2rem;
+  }
+
+  .hero-h1,
+  .hero-h1 span {
+    font-size: 3.5rem;
+  }
+
+  .welcome-text {
+    margin-right: 20%;
+    max-width: 35rem;
+  }
+
+  .logo {
+    cursor: pointer;
+    text-decoration: none;
+    color: var(--black);
+    font-size: 1.5rem;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .desktop-menu {
+    display: flex;
+    padding: 0.8rem 10%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    border-bottom: 1px solid var(--gray);
+  }
+
+  .desktop-links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 2rem;
+    margin-left: 10%;
+    margin-right: 5%;
+    list-style: none;
+    color: var(--black);
+    flex: 1;
+    cursor: pointer;
+  }
+
+  .link a {
+    text-decoration: none;
+    color: var(--black);
+  }
+
+  .link a:hover {
+    color: var(--orange);
+  }
+
+  .date-location h2 {
+    font-size: 1.3rem;
+  }
+
+  .date-location h3 {
+    font-weight: 400;
+    font-size: 1.2rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .hero-h1,
+  .hero-h1 span {
+    font-size: 3.11rem;
+  }
+
+  .friends {
+    display: block;
+    padding-top: 8rem;
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+  }
+
+  .hero-main {
+    display: flex;
+  }
+}
+
+@keyframes up-down {
+  0% {
+    transform: translateY(10px);
+  }
+
+  100% {
+    transform: translateY(-10px);
+  }
+}
