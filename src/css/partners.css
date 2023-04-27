@@ -9,6 +9,10 @@
     display: block;
   }
 
+  .footer_logo {
+    width: 100px;
+  }
+
   .partner {
     padding: 2rem;
     color: #fff;
