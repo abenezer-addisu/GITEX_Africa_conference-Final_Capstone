@@ -29,9 +29,9 @@ const guests = [
   {
     name: 'SAMIYA ABDULKADIR GODU',
     title:
-      "President",
+      'President',
     description:
-      " Ethiopian Youth Entrepreneurs Association (EYEA) Ethiopia ",
+      ' Ethiopian Youth Entrepreneurs Association (EYEA) Ethiopia ',
     image: 'assets/images/samiya.jpg',
   },
   {
@@ -62,7 +62,6 @@ const guests = [
       'UK Civil Service',
     image: 'assets/images/Zacharia George.jpg',
   },
-  
 ];
 
 const guestsList = document.querySelector('.guests-list');
