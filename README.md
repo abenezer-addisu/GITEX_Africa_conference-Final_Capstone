@@ -23,9 +23,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 HillsongUnited<a name="about-project"></a>
+# 📖 GITEX AFRICA <a name="about-project"></a>
 
-**HillsongUnited** is hillsongunited tour in ethiopia concert website. Though it is yet a work-in-progress, it's built with high preference for responsiveness using modern technologies. It features my learning speed and upward scaling. It depicts my strengths, capabilities, as I grow in experience. I hope you will be kind enough to give opinions on how to make it better..
+**GITEX AFRICA** , I try to create a website for the continent’s largest all-inclusive tech event,that it will connect tech titans, governments, SMEs, start-ups, coders, investors and academia, to accelerate, collaborate and explore new ventures..
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -67,7 +67,7 @@ I find the following features to be intresting::
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Link to live demo](https://abenezerassefa.github.io/Hillsong-united/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,7 +89,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/AbenezerAssefa/HillsongUnited.git
+  git clone https://github.com/abenezer-addisu/Final_Capstone_01.git
 ```
 
 ### Install
@@ -97,7 +97,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd HillsongUnited
+  cd Final_Capstone_01
   code .
 ```
 
@@ -121,7 +121,7 @@ Example command:
 
 ### Deployment
 
-- https://abenezerassefa.github.io/Hillsong-united/
+- 
 
 <!--
 Example:
@@ -139,8 +139,8 @@ Example:
 
 👤 **Abenezer**
 
-- GitHub: [@AbenezerAssefa](https://github.com/AbenezerAssefa)
-- LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-assefa-386b25193)
+- GitHub: [@Abenezeraddisu](https://github.com/Abenezer-Addisu)
+- LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-addisu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,8 +183,8 @@ I’m graphic & web designer based in Seoul, specializing in the fields of brand
 
 - The original design ideal by [Cindy Shin in Behance](https://www.behance.net/adagio07).
 - Project from [Microverse](https://www.microverse.org/) html & css module.
-- Images inspired by [Unsplash](https://unsplash.com/).
-- Topic inspired by [Khadija Hamdani](https://www.researchgate.net/publication/329972741_Knowledge_based_entrepreneurship_the_role_of_networks).
+- Images inspired by gitex website and [Unsplash](https://unsplash.com/).
+
 - Thanks to the Microverse team for the great curriculum.
 - Thanks to the Code Reviewer(s) for the insightful feedbacks.
 - A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
