@@ -68,7 +68,11 @@ I find the following features to be intresting::
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
+[Link to live demo](https://abenezer-addisu.github.io/Final_Capstone_01/)
 
+## 🚀 Video link <a name="live-demo"></a>
+
+[Link to video ](https://www.loom.com/share/60ac5e93ff564fceadbef35a863b7da7)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,7 +126,7 @@ Example command:
 
 ### Deployment
 
-- 
+- https://abenezer-addisu.github.io/Final_Capstone_01/
 
 <!--
 Example:
